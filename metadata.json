@@ -1,0 +1,6 @@
+{
+  "name": "Gyro Maze 3D",
+  "description": "Tactile 3D physics-based rolling ball labyrinth with 100 levels across 10 progressive thematic worlds, realistic gyro tilt controls, dynamic specular lighting, fluid rolling mechanics, and tactile feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
